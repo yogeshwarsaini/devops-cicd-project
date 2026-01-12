@@ -7,9 +7,9 @@ app.get('/', (req, res) => {
     <html>
       <head><title>DevOps Demo</title></head>
       <body style="font-family: Arial; text-align: center; padding: 50px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-        <h1 style="color: white;">🚀 DevOps CI/CD Pipeline Demo</h1>
-        <p style="color: white; font-size: 20px;">Successfully Deployed with Jenkins!</p>
-        <p style="color: #f0f0f0;">Version: 1.0.0</p>
+        <h1 style="color: white;">🚀 DevOps CI/CD Pipeline Demo - AUTOMATED!</h1>
+        <p style="color: white; font-size: 20px;">Successfully Deployed with Jenkins AUTO-TRIGGER!</p>
+        <p style="color: #f0f0f0;">Version: 2.0.0 - Webhook Working! 🎉</p>
       </body>
     </html>
   `);
