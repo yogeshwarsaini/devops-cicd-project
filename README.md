@@ -8,7 +8,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Complete End-to-End DevOps Project with Automated CI/CD Pipeline**
+***Complete End-to-End DevOps Project with Automated CI/CD Pipeline**
 
 [🔗 Live Demo](#) • [📖 Documentation](#architecture) • [🎯 Features](#features)
 
